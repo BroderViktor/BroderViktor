@@ -1,4 +1,11 @@
-### Halla 👋
+### Hola 👋
+
+I love to challenge myself with new and interesting projects. I focus mainly on gamedev, but i often do other things such as websites and backend stuff.
+
+---
+❗ Currently working on ❗ 
+🤖Orgdex: An AI helper for Orgbrain
+
 
 ---
 
