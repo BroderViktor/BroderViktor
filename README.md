@@ -3,4 +3,4 @@
 ---
 
 ### :fire: My Stats :
-https://github-readme-streak-stats.herokuapp.com/?user=BroderViktor
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=BroderViktor&theme=dark&background=000000)](https://git.io/streak-stats)
