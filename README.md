@@ -5,6 +5,8 @@ I love to challenge myself with new and interesting projects. I focus mainly on 
 ---
 ❗ Currently working on ❗ 
 - 🤖Orgdex: An AI helper for Orgbrain
+- 🎮Secret Games
+- 🚀Bakkacoin: Cryptocurrency for Elvebakken VGS
 
 
 ---
