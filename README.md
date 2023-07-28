@@ -7,7 +7,7 @@ I love to challenge myself with new and interesting projects. I focus mainly on 
 - 🤖Orgdex: An AI helper for Orgbrain
 - 🎮Secret Games
 - 🧠Vasonim: The Ultimate Psychology Tool
-- 💻My personal website: bror.tech
+- 💻My personal website: www.bror.tech
 
 ---
 
